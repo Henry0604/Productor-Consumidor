@@ -1,0 +1,40 @@
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csprojAssemblyReference.cache
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\Best Buy\Documents\Visual Studio 2019\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.AssemblyReference.cache
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\kiss_\OneDrive\Escritorio\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.AssemblyReference.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor-main\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.AssemblyReference.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\Lenovo VIIL\Desktop\Semestre 6\Seminario de Sistemas Operativos\Act.12\C#\Simulador-Productor-Consumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
